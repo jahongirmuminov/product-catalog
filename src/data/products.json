@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "brand": "SoundMaster",
+    "price": 129.99,
+    "description": "Premium wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and travelers.",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "name": "Smartphone X",
+    "brand": "TechGiant",
+    "price": 899.99,
+    "description": "Latest flagship smartphone with 6.7-inch OLED display, 5G connectivity, and professional-grade camera system.",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "name": "Laptop Pro",
+    "brand": "ComputeX",
+    "price": 1299.99,
+    "description": "Powerful laptop with 16GB RAM, 512GB SSD, and dedicated graphics card. Ideal for professionals and gamers.",
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "brand": "FitTech",
+    "price": 249.99,
+    "description": "Advanced smartwatch with health monitoring, GPS, and 7-day battery life. Water-resistant and stylish design.",
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "brand": "SoundMaster",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with 360-degree sound and 12-hour battery life. Perfect for outdoor activities.",
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "name": "Gaming Console",
+    "brand": "GamePro",
+    "price": 499.99,
+    "description": "Next-generation gaming console with 4K graphics, 1TB storage, and extensive game library.",
+    "isNew": false
+  },
+  {
+    "id": 7,
+    "name": "Tablet Ultra",
+    "brand": "TechGiant",
+    "price": 349.99,
+    "description": "Lightweight tablet with 10.5-inch display, fast processor, and all-day battery life. Great for work and entertainment.",
+    "isNew": false
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "brand": "PhotoMaster",
+    "price": 599.99,
+    "description": "Professional digital camera with 24MP sensor, 4K video recording, and interchangeable lenses.",
+    "isNew": true
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds",
+    "brand": "SoundMaster",
+    "price": 89.99,
+    "description": "True wireless earbuds with active noise cancellation, touch controls, and compact charging case.",
+    "isNew": false
+  },
+  {
+    "id": 10,
+    "name": "Smart Home Hub",
+    "brand": "HomeConnect",
+    "price": 149.99,
+    "description": "Central hub for smart home devices with voice control, automation features, and security monitoring.",
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "brand": "FitTech",
+    "price": 59.99,
+    "description": "Slim fitness tracker with heart rate monitoring, sleep tracking, and smartphone notifications.",
+    "isNew": false
+  },
+  {
+    "id": 12,
+    "name": "External SSD",
+    "brand": "DataStore",
+    "price": 119.99,
+    "description": "Fast external SSD with 1TB capacity, USB-C connectivity, and durable aluminum casing.",
+    "isNew": false
+  }
+]
